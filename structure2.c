@@ -18,7 +18,7 @@ int main(void)
 
 	setGPA(&s1, 6.5);
 
-	printf("The GPA is: %.2f\n", s1->gpa);
+	printf("The GPA is: %.2f\n", s1.gpa);
 
 
 	return 0;
